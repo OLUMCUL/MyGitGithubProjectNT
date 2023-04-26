@@ -14,5 +14,8 @@ public class AtmProject {
 
         System.out.println("bir isim kodlar");
         //OLM2
+
+        System.out.println("koldar");
+        //OLM3
     }
 }
