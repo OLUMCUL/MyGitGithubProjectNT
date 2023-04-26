@@ -8,5 +8,8 @@ public class AtmProject {
         //version3
         System.out.println("Git ogrenmek cok kolay");
         //version4
+
+        System.out.println("OLUMCUL breanchi kodlarini yazdi");
+        //version OLM1
     }
 }
