@@ -11,5 +11,8 @@ public class AtmProject {
 
         System.out.println("OLUMCUL breanchi kodlarini yazdi");
         //version OLM1
+
+        System.out.println("bir isim kodlar");
+        //OLM2
     }
 }
