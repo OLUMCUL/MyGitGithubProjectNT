@@ -19,5 +19,6 @@ public class AtmProject {
         //OLM3
         System.out.println();
         //localde degisiklik yaptim.
+        //remoteda uzak depoda degisiklik yaptim
     }
 }
