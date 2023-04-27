@@ -17,5 +17,7 @@ public class AtmProject {
 
         System.out.println("koldar");
         //OLM3
+        System.out.println();
+        //localde degisiklik yaptim.
     }
 }
